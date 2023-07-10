@@ -1,5 +1,5 @@
 # Bank-Account-KATA
-This project represent the implementation the following user stories:
+This project represent the DOMAIN implementation the following user stories:
 
 ## US 1:
 In order to save money
